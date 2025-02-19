@@ -1,2 +1,2 @@
 # my_repository
-Bu repositoryda shaxsiy proyektlarimjamlangan
+This repo contains tutorial codes and files
